@@ -1,3 +1,3 @@
 <?php
 
-print "This is the US App";
+print "This is the India App";
